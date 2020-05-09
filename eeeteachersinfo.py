@@ -13,7 +13,7 @@ myurl="https://eee.buet.ac.bd/faculty"
 uClient=uReq(myurl)
 page_html=uClient.read()
 uClient.close()
-file=open("teachers.txt","w")
+file=open("eeeteachers.txt","w")
 page_soup=soup(page_html,"html.parser")
 containers=page_soup.findAll("div",{"class":"col-lg-3 col-sm-6"})
 for container in containers:
