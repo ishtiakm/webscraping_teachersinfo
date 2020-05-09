@@ -1,0 +1,609 @@
+Name:Dr. S. Shahnawaz Ahmed
+Designation:Professor
+Room_no.:ECE 127
+Email_id:ssahmed@eee.buet.ac.bd
+Cell:+88 01552 321 941
+Website:http://ssahmed.buet.ac.bd
+
+Name:Dr. Satya Prasad Majumder
+Designation:Professor
+Room_no.:ECE 321
+Email_id:spmajumder@eee.buet.ac.bd
+Cell:+88 01819 198 050
+Website:http://spmajumder.buet.ac.bd
+
+Name:Dr. Md. Saifur Rahman
+Designation:Professor
+Room_no.:ECE 221
+Email_id:saifur@eee.buet.ac.bd
+Cell:+88 01195 229 919
+Website:http://saifur.buet.ac.bd
+
+Name:Dr. Pran Kanai Saha
+Designation:Professor
+Room_no.:ECE 323
+Email_id:sahapk@eee.buet.ac.bd
+Cell:+88 01550 300 513
+Website:http://sahapk.buet.ac.bd
+
+Name:Dr. Quazi Deen Mohd Khosru
+Designation:Professor
+Room_no.:ECE 325
+Email_id:qdmkhosru@eee.buet.ac.bd
+Cell:+88 01819 410 845
+Website:http://qdmkhosru.buet.ac.bd
+
+Name:Dr. Md. Shafiqul Islam
+Designation:Professor
+Room_no.:ECE 327
+Email_id:islams@eee.buet.ac.bd
+Cell:+88 01815 007 759
+Website:islams.buet.ac.bd
+
+Name:Dr. Md. Kamrul Hasan
+Designation:Professor
+Room_no.:ECE 225
+Email_id:khasan@eee.buet.ac.bd
+Cell:+88 01753 072 171
+Website:http://khasan.buet.ac.bd
+
+Name:Dr. Md. Aynal Haque
+Designation:Professor
+Room_no.:ECE 125
+Email_id:aynal@eee.buet.ac.bd
+Cell:+88 01817 638 600
+Website:http://aynal.buet.ac.bd
+
+Name:Dr. Kazi Mujibur Rahman
+Designation:Professor
+Room_no.:ECE 322
+Email_id:kmr@eee.buet.ac.bd
+Cell:+88 01675 325 576
+Website:http://kmr.buet.ac.bd
+
+Name:Dr. Sharif Mohammad Mominuzzaman
+Designation:Professor
+Room_no.:ECE 324
+Email_id:momin@eee.buet.ac.bd
+Cell:+88 01944 535 404
+Website:http://momin.buet.ac.bd
+
+Name:Dr. Mohammad Jahangir Alam
+Designation:Professor
+Room_no.:ECE 429
+Email_id:mjalam@eee.buet.ac.bd
+Cell:+88 01911 356 905
+Website:http://mjalam.buet.ac.bd
+
+Name:Dr. Md. Shah Alam
+Designation:Professor
+Room_no.:ECE 423
+Email_id:shalam@eee.buet.ac.bd
+Cell:+88 01716 867 313
+Website:http://shalam.buet.ac.bd
+
+Name:Dr. Md. Ziaur Rahman Khan
+Designation:Professor
+Room_no.:ECE 427
+Email_id:zrkhan@eee.buet.ac.bd
+Cell:+88 01715 498 400
+Website:http://zrkhan.buet.ac.bd
+
+Name:Dr. Mohammed Imamul Hassan Bhuiyan
+Designation:Professor
+Room_no.:ECE 328
+Email_id:imamul@eee.buet.ac.bd
+Cell:+88 01922 544 639
+Website:http://imamul.buet.ac.bd
+
+Name:Dr. Shaikh Anowarul Fattah
+Designation:Professor
+Room_no.:ECE 426
+Email_id:fattah@eee.buet.ac.bd
+Cell:+88 01937 800 854
+Website:http://fattah.buet.ac.bd
+
+Name:Dr. Md. Nasim Ahmed Dewan
+Designation:Professor
+Room_no.:ECE 329
+Email_id:dewan@eee.buet.ac.bd
+Cell:+88 01746 176 370
+Website:http://dewan.buet.ac.bd
+
+Name:Dr. S. M. Mahbubur Rahman
+Designation:Professor
+Room_no.:ECE 326
+Email_id:mahbubur@eee.buet.ac.bd
+Cell:+88 01823 933 902
+Website:http://mahbubur.buet.ac.bd
+
+Name:Dr. Muhammad Anisuzzaman Talukder
+Designation:Professor
+Room_no.:ECE 527
+Email_id:anis@eee.buet.ac.bd
+Cell:+88 01743 731 065
+Website:http://anis.buet.ac.bd
+
+Name:Dr. Celia Shahnaz
+Designation:Professor
+Room_no.:ECE 428
+Email_id:celia@eee.buet.ac.bd
+Cell:+88 01928 568 547
+Website:http://celia.buet.ac.bd
+
+Name:Dr. Mohammad Ariful Haque
+Designation:Professor
+Room_no.:Not_Given
+Email_id:arifulhoque@eee.buet.ac.bd
+Cell:+88 01687 129 593
+Website:http://arifulhoque.buet.ac.bd
+
+Name:Dr. Abdul Hasib Chowdhury
+Designation:Professor
+Room_no.:ECE 227
+Email_id:hasib@eee.buet.ac.bd
+Cell:+88 01711 901 568
+Website:http://hasib.buet.ac.bd
+
+Name:Dr. Farseem Mannan Mohammedy
+Designation:Professor
+Room_no.:ECE 424
+Email_id:farseem@eee.buet.ac.bd
+Cell:+88 01715 044 474
+Website:http://farseem.buet.ac.bd
+
+Name:Dr. Mohammad Faisal
+Designation:Professor
+Room_no.:ECE 228
+Email_id:mdfaisal@eee.buet.ac.bd
+Cell:+88 01794 692 601
+Website:http://mdfaisal.buet.ac.bd
+
+Name:Dr. Samia Subrina
+Designation:Professor
+Room_no.:Not_Given
+Email_id:samiasubrina@eee.buet.ac.bd
+Cell:+88 01937 959 083
+Website:http://samiasubrina.buet.ac.bd
+
+Name:Dr. Md. Forkan Uddin
+Designation:Professor
+Room_no.:Not_Given
+Email_id:mforkanuddin@eee.buet.ac.bd
+Cell:+88 01678 024 389
+Website:http://mforkanuddin.buet.ac.bd
+
+Name:Dr. Md. Farhad Hossain
+Designation:Professor
+Room_no.:ECE 331
+Email_id:mfarhadhossain@eee.buet.ac.bd
+Cell:+88 01935 591 028
+Website:http://mfarhadhossain.buet.ac.bd
+
+Name:Dr. Lutfa Akter
+Designation:Professor
+Room_no.:ECE 529
+Email_id:lutfaakter@eee.buet.ac.bd
+Cell:+88 01776 197 537
+Website:http://lutfaakter.buet.ac.bd
+
+Name:Dr. Md. Kawsar Alam
+Designation:Professor
+Room_no.:Not_Given
+Email_id:kawsaralam@eee.buet.ac.bd
+Cell:+88 01712 526 059
+Website:http://kawsaralam.buet.ac.bd
+
+Name:Dr. Shaikh Asif Mahmood
+Designation:Associate Professor
+Room_no.:ECE 230
+Email_id:asifmahmood@eee.buet.ac.bd
+Cell:+88 01552 351 641
+Website:http://asifmahmood.buet.ac.bd
+
+Name:Yeasir Arafat
+Designation:Associate Professor
+Room_no.:ECE 229
+Email_id:arafat@eee.buet.ac.bd
+Cell:+88 01552 329 234
+Website:http://arafat.buet.ac.bd
+
+Name:Dr. Md. Shamim Reza
+Designation:Associate Professor
+Room_no.:Not_Given
+Email_id:shamim_reza@eee.buet.ac.bd
+Cell:+88 01959 361 257
+Website:http://shamimreza.buet.ac.bd
+
+Name:Dr. Apratim Roy
+Designation:Associate Professor
+Room_no.:ECE 530
+Email_id:apratimroy@eee.buet.ac.bd
+Cell:+88 01714 253 752
+Website:http://apratimroy.buet.ac.bd
+
+Name:Dr. Mahbub Alam
+Designation:Associate Professor
+Room_no.:ECE 427
+Email_id:mahbubalam@eee.buet.ac.bd
+Cell:+88 01726 400 400
+Website:http://mahbubalam.buet.ac.bd
+
+Name:Dr. Nahid-Al-Masood
+Designation:Associate Professor
+Room_no.:Not_Given
+Email_id:nahid@eee.buet.ac.bd
+Cell:+88 01716 494 885
+Website:http://nahid.buet.ac.bd
+
+Name:Dr. Sajid Muhaimin Choudhury
+Designation:Assistant Professor
+Room_no.:ECE 331
+Email_id:sajid@eee.buet.ac.bd
+Cell:+88 01611 978 855
+Website:http://sajid.buet.ac.bd
+
+Name:Dr. Ahmed Zubair
+Designation:Assistant Professor
+Room_no.:ECE 913
+Email_id:ahmedzubair@eee.buet.ac.bd
+Cell:+88 01300 574 069
+Website:http://ahmedzubair.buet.ac.bd
+
+Name:Dr. Md. Asiful Islam
+Designation:Assistant Professor
+Room_no.:ECE 131
+Email_id:maislam@eee.buet.ac.bd
+Cell:+88 01906 200 154
+Website:http://maislam.buet.ac.bd
+
+Name:Dr. Md Zunaid Baten
+Designation:Assistant Professor
+Room_no.:ECE 124
+Email_id:mdzunaid@eee.buet.ac.bd
+Cell:+88 01715 062 288
+Website:http://mdzunaid.buet.ac.bd
+
+Name:Md. Hadiur Rahman Khan
+Designation:Assistant Professor
+Room_no.:ECE 532
+Email_id:hrkhan@eee.buet.ac.bd
+Cell:+88 01914 144 430
+Website:http://hrkhan.buet.ac.bd
+
+Name:Arnab Bhattacharjee
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:arnabeee10@eee.buet.ac.bd
+Cell:+88 01715 111 927
+Website:http://arnab.buet.ac.bd
+
+Name:Dip Joti Paul
+Designation:Lecturer
+Room_no.:ECE 430
+Email_id:djpaul007@eee.buet.ac.bd
+Cell:+88 01768 418 893
+Website:http://djpaul007.buet.ac.bd
+
+Name:Shoilie Chakma
+Designation:Lecturer
+Room_no.:ECE 525
+Email_id:shoiliechakma@eee.buet.ac.bd
+Cell:+88 01676 008 517
+Website:http://shoiliechakma.buet.ac.bd
+
+Name:Marjana Mahdia
+Designation:Lecturer
+Room_no.:ECE 931
+Email_id:mahdia@eee.buet.ac.bd
+Cell:+88 01744 296 343
+Website:http://mahdia.buet.ac.bd
+
+Name:Rajat Chakraborty
+Designation:Lecturer
+Room_no.:ECE 930
+Email_id:rajat@eee.buet.ac.bd
+Cell:+88 01960 259 728
+Website:http://rajat.buet.ac.bd
+
+Name:I. K. M. Reaz Rahman
+Designation:Lecturer
+Room_no.:ECE 930
+Email_id:ikmreazrahman@eee.buet.ac.bd
+Cell:+88 01757 290 615
+Website:http://ikmreazrahman.buet.ac.bd
+
+Name:Arik Subhana
+Designation:Lecturer
+Room_no.:ECE 930
+Email_id:arik@eee.buet.ac.bd
+Cell:+88 01537 087 603
+Website:http://arik.buet.ac.bd
+
+Name:Md. Irfan Khan
+Designation:Lecturer
+Room_no.:ECE 930
+Email_id:irfankhan@eee.buet.ac.bd
+Cell:+88 01554 662 654
+Website:http://irfankhan.buet.ac.bd
+
+Name:Sadman Sakib Ahbab
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:ssahbab@eee.buet.ac.bd
+Cell:+88 01971 610 575
+Website:http://ssahbab.buet.ac.bd
+
+Name:Tanvir Mahmud
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:32tanvir@gmail.com
+Cell:+88 01954 206 575
+Website:http://32tanvir.buet.ac.bd
+
+Name:Munia Ferdoushi
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:munia@eee.buet.ac.bd
+Cell:+88 01822 381 993
+Website:http://munia.buet.ac.bd
+
+Name:Anika Tabassum
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:atabassum@eee.buet.ac.bd
+Cell:+88 01833 691 734
+Website:http://atabassum.buet.ac.bd
+
+Name:Dr. A. B. M. Harun-Ur-Rashid
+Designation:Professor
+Room_no.:Not_Given
+Email_id:abmhrashid@eee.buet.ac.bd
+Cell:+88 01710 852 886
+Website:http://abmhrashid.buet.ac.bd
+
+Name:Dr. Md. Zahurul Islam
+Designation:Professor
+Room_no.:ECE 528
+Email_id:mdzahurulislam@eee.buet.ac.bd
+Cell:+88 01721 933 227
+Website:http://mdzahurulislam.buet.ac.bd
+
+Name:Hamidur Rahman
+Designation:Associate Professor
+Room_no.:ECE 224
+Email_id:hamidurrahman@eee.buet.ac.bd
+Cell:+88 01713 035 309
+Website:http://hamidurrahman.buet.ac.bd
+
+Name:Hafiz Imtiaz
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:hafizimtiaz@eee.buet.ac.bd
+Cell:+88 01677 103 153
+Website:http://hafizimtiaz.buet.ac.bd
+
+Name:Md. Imran Momtaz
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:imran@eee.buet.ac.bd
+Cell:+88 01614 666 829
+Website:http://imran.buet.ac.bd
+
+Name:Muhammad Abdullah Arafat
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:abdullah_arafat@eee.buet.ac.bd
+Cell:+88 01553 287 666
+Website:http://abdullaharafat.buet.ac.bd
+
+Name:Mohammad Asif Zaman
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:zaman@eee.buet.ac.bd
+Cell:+88 01712 646 464
+Website:http://zaman.buet.ac.bd
+
+Name:Nadim Chowdhury
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:nadim@eee.buet.ac.bd
+Cell:+88 01676 270 031
+Website:http://nadim.buet.ac.bd
+
+Name:Md. Hasibul Alam
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:mhalam@eee.buet.ac.bd
+Cell:+88 01720 835 970
+Website:http://mhalam.buet.ac.bd
+
+Name:Soumitra Roy Joy
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:joy@eee.buet.ac.bd
+Cell:+88 01714 394 977
+Website:http://joy.buet.ac.bd
+
+Name:Shuvro Chowdhury
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:schowdhury@eee.buet.ac.bd
+Cell:+88 01717 225 412
+Website:http://schowdhury.buet.ac.bd
+
+Name:Maruf Ahmed
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:maruf_ahmed@eee.buet.ac.bd
+Cell:+88 01724 874 323
+Website:http://marufahmed.buet.ac.bd
+
+Name:Imtiaz Ahmed
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:imtz016@eee.buet.ac.bd
+Cell:+88 01915 213 472
+Website:http://imtz016.buet.ac.bd
+
+Name:Saeed-Uz-Zaman Khan
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:suzkhan@eee.buet.ac.bd
+Cell:ECE 240
+Website:01711483020
+
+Name:Gobinda Saha
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:suzkhan@eee.buet.ac.bd
+Cell:ECE 240
+Website:01711483020
+
+Name:Ehsanur Rahman
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:suzkhan@eee.buet.ac.bd
+Cell:ECE 240
+Website:01711483020
+
+Name:Zabir Ahmed
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:suzkhan@eee.buet.ac.bd
+Cell:ECE 240
+Website:01711483020
+
+Name:Md. Sadman Sakib Rahman
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:suzkhan@eee.buet.ac.bd
+Cell:ECE 240
+Website:01711483020
+
+Name:Md. Ayaz Masud
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:ayazmasud@eee.buet.ac.bd
+Cell:ECE 931
+Website:01718450310
+
+Name:Md. Shafiqul Islam
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:shafiqulislam@eee.buet.ac.bd
+Cell:ECE 931
+Website:01754767878
+
+Name:Sumaiya Wahid
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:sumaiyawahid@eee.buet.ac.bd
+Cell:ECE 925
+Website:01731514050
+
+Name:Mahnaz Islam
+Designation:Assistant Professor
+Room_no.:Not_Given
+Email_id:mahnazislam@eee.buet.ac.bd
+Cell:ECE 141
+Website:01725831234
+
+Name:Urmita Sikder
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:urmita@eee.buet.ac.bd
+Cell:ECE 132
+Website:01722747408
+
+Name:Fariah Hayee
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:fariahhayee@eee.buet.ac.bd
+Cell:ECE 431
+Website:01674846168
+
+Name:Orchi Hassan
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:orchi@eee.buet.ac.bd
+Cell:ECE 132
+Website:01716949161
+
+Name:Md. Shahadat Hasan Sohel
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:shasan@eee.buet.ac.bd
+Cell:ECE 908
+Website:01673918386
+
+Name:Kanak Datta
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:shasan@eee.buet.ac.bd
+Cell:ECE 908
+Website:01673918386
+
+Name:Abir Shadman
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:shasan@eee.buet.ac.bd
+Cell:ECE 908
+Website:01673918386
+
+Name:Sakib Hassan
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:shasan@eee.buet.ac.bd
+Cell:ECE 908
+Website:01673918386
+
+Name:Mohammad Abdullah Al Shohel
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:shasan@eee.buet.ac.bd
+Cell:ECE 908
+Website:01673918386
+
+Name:Md. Mukhlasur Rahman Tanvir
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:mukhlasur@eee.buet.ac.bd
+Cell:ECE 430
+Website:01520090577
+
+Name:Jewel Mohajan
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:jewel@eee.buet.ac.bd
+Cell:ECE 526
+Website:01795094092
+
+Name:Ajanta Saha
+Designation:Lecturer
+Room_no.:ECE 931
+Email_id:ajanta@eee.buet.ac.bd
+Cell:+88 01687 984 004
+Website:http://ajanta.buet.ac.bd
+
+Name:Mohammad Tariqul Islam
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:tariqul@eee.buet.ac.bd
+Cell:ECE 928
+Website:01710538310
+
+Name:Asir Intisar Khan
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:asir@eee.buet.ac.bd
+Cell:ECE 928
+Website:01731970698
+
+Name:Towsif Taher
+Designation:Lecturer
+Room_no.:Not_Given
+Email_id:towsiftaher@eee.buet.ac.bd
+Cell:ECE 925
+Website:01675820636
+
